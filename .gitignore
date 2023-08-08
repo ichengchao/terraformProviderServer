@@ -1,0 +1,14 @@
+target/
+.classpath
+.project
+.settings/
+velocity.log
+
+*.iml
+.idea/
+.DS_Store
+logs
+src/main/resources/jdbc.properties
+log.txt
+.vscode/
+/.apt_generated/
