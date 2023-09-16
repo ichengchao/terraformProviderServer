@@ -15,7 +15,7 @@ jobs:
       - name: TruffleHog OSS
         uses: trufflesecurity/trufflehog@main
         with:
-          path: /home/runner/work/terraformProviderServer/terraformProviderServer
+          path: /
           base: master
           head: HEAD
           extra_args: --debug
