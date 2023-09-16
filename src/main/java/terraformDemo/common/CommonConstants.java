@@ -19,6 +19,9 @@ public class CommonConstants {
     public static final String DEMO_KEY;
 
     public static final String CONFIG_FILE_NAME = "/terraformDemo.properties";
+    
+    public static final String test_key = "LTAI5tFWraQXkw9Mz2cb3Y98";
+    public static final String test_secret = "M8Z9xzAXPWURAZN1u5HKa9FzcKsy5b";
 
     static {
         Properties properties = loadProperties();
